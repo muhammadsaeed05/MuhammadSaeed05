@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/itssaeed592" target="blank"><img src="https://img.shields.io/twitter/follow/itssaeed592?logo=twitter&style=for-the-badge" alt="itssaeed592" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://saeedtech.netlify.app](https://saeedtech.netlify.app)
+- 👨‍💻 All of my projects are available at [https://saeeddigital.netlify.app](https://saeeddigital.netlify.app)
 
 - 📝 I regularly write articles on [https://medium.com/@saeedsaleem.04](https://medium.com/@saeedsaleem.04)
 
