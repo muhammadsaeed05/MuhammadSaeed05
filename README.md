@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP Professional Cloud Architect"/>
   <img src="https://img.shields.io/badge/Google_Cloud-Professional_Data_Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP Professional Data Engineer"/>
+  <img src="https://komarev.com/ghpvc/?username=muhammadsaeed05&label=Profile%20Views&color=4285f4&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -82,6 +83,20 @@ My core focus bridges the gap between **AI application engineering** (multi-agen
 
 * **Google Cloud Certified — Professional Cloud Architect** | Google Cloud • [Verify Credential](https://www.credly.com/badges/14c80804-f184-4e0a-bf0f-cb0ffcef7d73/public_url)
 * **Google Cloud Certified — Professional Data Engineer** | Google Cloud • [Verify Credential](https://www.credly.com/badges/c50e999e-a1df-4926-b63b-09f8fc52e4c8/public_url)
+
+---
+
+### GitHub & Engineering Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed05&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="155" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsaeed05&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="155" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaeed05&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="140" />
+</p>
 
 ---
 
