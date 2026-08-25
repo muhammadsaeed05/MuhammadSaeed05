@@ -86,18 +86,15 @@ My core focus bridges the gap between **AI application engineering** (multi-agen
 
 ---
 
-### GitHub & Engineering Activity
+### Engineering & Repository Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed05&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="155" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsaeed05&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="155" />
+  <img src="https://img.shields.io/github/followers/muhammadsaeed05?label=Followers&style=flat-square&logo=github&color=181717" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Orchestration-LangGraph-FF6F00?style=flat-square" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Tool_Standard-MCP-10B981?style=flat-square" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/IaC-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Containers-Docker%20%26%20K8s-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker and Kubernetes"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaeed05&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="140" />
-</p>
-
 ---
 
 ### Connect
