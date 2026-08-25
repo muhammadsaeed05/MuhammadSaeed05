@@ -4,7 +4,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP Professional Cloud Architect"/>
   <img src="https://img.shields.io/badge/Google_Cloud-Professional_Data_Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP Professional Data Engineer"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadsaeed05&label=Profile%20Views&color=4285f4&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/muhammadsaeed05?tab=followers"><img src="https://img.shields.io/github/followers/muhammadsaeed05?label=Followers&style=flat&logo=github&color=181717" alt="Followers"/></a>
 </p>
 
 <p align="center">
@@ -89,7 +93,6 @@ My core focus bridges the gap between **AI application engineering** (multi-agen
 ### Engineering & Repository Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/muhammadsaeed05?label=Followers&style=flat-square&logo=github&color=181717" alt="Followers"/>
   <img src="https://img.shields.io/badge/Orchestration-LangGraph-FF6F00?style=flat-square" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/Tool_Standard-MCP-10B981?style=flat-square" alt="Model Context Protocol"/>
   <img src="https://img.shields.io/badge/IaC-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
