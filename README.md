@@ -1,12 +1,18 @@
-# Muhammad Saeed
+<h1 align="center">Muhammad Saeed</h1>
+<h3 align="center">AI Engineer & Cloud/DevOps Engineer — Generative AI systems on production-grade cloud infrastructure</h3>
 
-**AI / Cloud / DevOps Engineer**  
-2x Google Cloud Certified: **Professional Cloud Architect** & **Professional Data Engineer**
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP Professional Cloud Architect"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Professional_Data_Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP Professional Data Engineer"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saeed-569527204/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadsaeed05)
-[![Email](https://img.shields.io/badge/Email-saeedsaleem.04%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saeedsaleem.04@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-saeeddigital.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://saeeddigital.netlify.app)
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-saeed-569527204"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:saeedsaleem.04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://saeeddigital.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://medium.com/@saeedsaleem.04"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://github.com/muhammadsaeed05"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
