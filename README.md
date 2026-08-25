@@ -74,8 +74,8 @@ My core focus bridges the gap between **AI application engineering** (multi-agen
 
 ### Certifications
 
-* **Google Cloud Certified — Professional Cloud Architect** | Google Cloud • [Verify Credential]([https://www.credly.com/badges/14c80804-f184-4e0a-bf0f-cb0ffcef7d73/public_url])
-* **Google Cloud Certified — Professional Data Engineer** | Google Cloud • [Verify Credential]([https://www.credly.com/badges/c50e999e-a1df-4926-b63b-09f8fc52e4c8/public_url])
+* **Google Cloud Certified — Professional Cloud Architect** | Google Cloud • [Verify Credential](https://www.credly.com/badges/14c80804-f184-4e0a-bf0f-cb0ffcef7d73/public_url)
+* **Google Cloud Certified — Professional Data Engineer** | Google Cloud • [Verify Credential](https://www.credly.com/badges/c50e999e-a1df-4926-b63b-09f8fc52e4c8/public_url)
 
 ---
 
